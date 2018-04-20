@@ -1,0 +1,16 @@
+img{
+    width: 30%;
+    float:left;
+    margin: 1.66%
+}
+p {
+    font-family: 'Titillium Web';
+    font-size: 30px;
+        font-weight: 800;
+    margin-left: 35%;
+    border-bottom: solid red 3px;
+    padding-bottom: 2px;
+    width: 30%;
+    text-align: center;
+
+}
